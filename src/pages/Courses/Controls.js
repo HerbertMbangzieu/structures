@@ -4,7 +4,7 @@ import { controls } from '../../courses';
 const Controls = () => {
 
   return (
-    <div>
+    <div className="pb-10">
     <div className='mx-8 md:mx-10 lg:mx-20 text-justify'>
         {/* Title  */}
         <div className='w-full flex justify-center text-xl'>

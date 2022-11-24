@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/structures/static/css/main.a9f5c039.css",
+    "main.js": "/structures/static/js/main.74c1d054.js",
+    "static/media/tableFlow.png": "/structures/static/media/tableFlow.df3d529cf7ffc7716a1e.png",
+    "static/media/algoControls.png": "/structures/static/media/algoControls.4e4d272ee9cdba03380f.png",
+    "static/media/loop.png": "/structures/static/media/loop.c57954b2d5692c90eba1.png",
+    "static/media/sinon2.png": "/structures/static/media/sinon2.26a0264a36712f99feba.png",
+    "static/media/loop2.png": "/structures/static/media/loop2.1af992ab2e53117b0c89.png",
+    "static/media/orgExple.png": "/structures/static/media/orgExple.9bfc27a6ba3577972efe.png",
+    "static/media/Si-alors-Sinon.png": "/structures/static/media/Si-alors-Sinon.9f42bc0dbe875b324398.png",
+    "static/media/sinon1.png": "/structures/static/media/sinon1.201af0ed43fa1468af44.png",
+    "static/media/seq.png": "/structures/static/media/seq.96fc332d9c729d157866.png",
+    "static/media/tantque1.png": "/structures/static/media/tantque1.c84d024790e1d1fb68ab.png",
+    "static/media/tantque2.png": "/structures/static/media/tantque2.20aca7978afbe02f39d9.png",
+    "static/media/repeter2.png": "/structures/static/media/repeter2.f99d0a75c7ef9aac0f79.png",
+    "static/media/siEx.png": "/structures/static/media/siEx.ac67ad452fd8459ea898.png",
+    "static/media/repeter1.png": "/structures/static/media/repeter1.d8d87e646b5127172d1f.png",
+    "static/media/SiFlow.png": "/structures/static/media/SiFlow.d782f30300d21e39ac44.png",
+    "static/media/pour2.png": "/structures/static/media/pour2.383e95ddc32e7aab499a.png",
+    "index.html": "/structures/index.html",
+    "main.a9f5c039.css.map": "/structures/static/css/main.a9f5c039.css.map",
+    "main.74c1d054.js.map": "/structures/static/js/main.74c1d054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f5c039.css",
+    "static/js/main.74c1d054.js"
+  ]
+}
